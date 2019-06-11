@@ -1,4 +1,4 @@
-package com.jiepi.spring.amqp;
+package com.jiepi.amqp;
 
 
 import org.springframework.context.annotation.ComponentScan;
